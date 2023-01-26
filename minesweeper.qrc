@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/lattice/back.png</file>
+        <file>res/lattice/eight.png</file>
+        <file>res/lattice/five.png</file>
+        <file>res/lattice/four.png</file>
+        <file>res/lattice/mine.png</file>
+        <file>res/lattice/no_click_mine.png</file>
+        <file>res/lattice/no_mine_flag.png</file>
+        <file>res/lattice/on.png</file>
+        <file>res/lattice/one.png</file>
+        <file>res/lattice/right.png</file>
+        <file>res/lattice/seven.png</file>
+        <file>res/lattice/six.png</file>
+        <file>res/lattice/three.png</file>
+        <file>res/lattice/two.png</file>
+    </qresource>
+</RCC>
